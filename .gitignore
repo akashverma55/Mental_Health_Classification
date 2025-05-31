@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# PyTorch cache
+*.pt
+*.pth
+*.ckpt
+
+# TensorFlow checkpoints
+*.ckpt.*
+checkpoint
+logs/
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.swp
+
+# Flask cache
+instance/
+*.db
+*.sqlite3
+
+# Uploaded files
+uploads/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Datasets
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+
+# Model weights
+models/
+checkpoints/
+
+# Hidden files
+*.log
+*.bak
+*.tmp
