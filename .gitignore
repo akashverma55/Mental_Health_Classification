@@ -63,3 +63,4 @@ checkpoints/
 *.log
 *.bak
 *.tmp
+*.gitignore
